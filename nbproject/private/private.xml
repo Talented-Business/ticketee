@@ -6,7 +6,6 @@
         <file>file:/D:/rails/ticketee/config/database.yml</file>
         <file>file:/D:/rails/ticketee/app/views/layouts/application.html.erb</file>
         <file>file:/D:/rails/ticketee/script/cucumber</file>
-        <file>file:/D:/rails/ticketee/features/creating_projects.feature</file>
         <file>file:/D:/rails/ticketee/features/step_definitions/web_steps.rb</file>
         <file>file:/D:/rails/ticketee/features/support/env.rb</file>
         <file>file:/D:/rails/ticketee/features/support/paths.rb</file>
@@ -15,5 +14,12 @@
         <file>file:/D:/rails/ticketee/app/helpers/projects_helper.rb</file>
         <file>file:/D:/rails/ticketee/app/views/projects/index.html.erb</file>
         <file>file:/D:/rails/ticketee/db/migrate/20121121040300_create_projects.rb</file>
+        <file>file:/D:/rails/ticketee/app/views/projects/_form.html.erb</file>
+        <file>file:/D:/rails/ticketee/app/views/projects/new.html.erb</file>
+        <file>file:/D:/rails/ticketee/app/views/projects/show.html.erb</file>
+        <file>file:/D:/rails/ticketee/app/helpers/application_helper.rb</file>
+        <file>file:/D:/rails/ticketee/app/models/project.rb</file>
+        <file>file:/D:/rails/ticketee/features/viewing_projects.feature</file>
+        <file>file:/D:/rails/ticketee/features/step_definitions/project_steps.rb</file>
     </open-files>
 </project-private>
