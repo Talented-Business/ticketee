@@ -21,5 +21,9 @@
         <file>file:/D:/rails/ticketee/app/models/project.rb</file>
         <file>file:/D:/rails/ticketee/features/viewing_projects.feature</file>
         <file>file:/D:/rails/ticketee/features/step_definitions/project_steps.rb</file>
+        <file>file:/D:/rails/ticketee/factories/project_factory.rb</file>
+        <file>file:/D:/rails/ticketee/features/support/factories.rb</file>
+        <file>file:/D:/rails/ticketee/features/editing_projects.feature</file>
+        <file>file:/D:/rails/ticketee/app/views/projects/edit.html.erb</file>
     </open-files>
 </project-private>
