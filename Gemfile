@@ -6,6 +6,7 @@ gem 'rails', '3.2.8'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
+gem 'devise','2.0'
 
 
 # Gems used only for assets and not required
@@ -27,9 +28,10 @@ group :test,:development do
 end
 group :test do
 	gem 'cucumber-rails'
-	gem 'capybara'
+	gem 'capybara', '2.0.1'
 	gem 'database_cleaner'
 	gem 'factory_girl'
+	gem 'email_spec'
 end# To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
