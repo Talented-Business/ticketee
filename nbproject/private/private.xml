@@ -2,15 +2,36 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
-        <file>file:/D:/rails/ticketee/features/editing_tickets.feature</file>
-        <file>file:/D:/rails/ticketee/features/creating_projects.feature</file>
-        <file>file:/D:/rails/ticketee/features/step_definitions/user_steps.rb</file>
-        <file>file:/D:/rails/ticketee/db/migrate/20121123104129_add_admin_to_users.rb</file>
+        <file>file:/D:/rails/ticketee/app/controllers/projects_controller.rb</file>
+        <file>file:/D:/rails/ticketee/features/hidden_links.feature</file>
+        <file>file:/D:/rails/ticketee/features/step_definitions/permission_steps.rb</file>
+        <file>file:/D:/rails/ticketee/features/viewing_projects.feature</file>
+        <file>file:/D:/rails/ticketee/features/signing_up.feature</file>
+        <file>file:/D:/rails/ticketee/app/helpers/application_helper.rb</file>
+        <file>file:/D:/rails/ticketee/features/step_definitions/web_steps.rb</file>
+        <file>file:/D:/rails/ticketee/app/controllers/registrations_controller.rb</file>
+        <file>file:/D:/rails/ticketee/config/routes.rb</file>
+        <file>file:/D:/rails/ticketee/app/views/users/confirmation.html.erb</file>
+        <file>file:/D:/rails/ticketee/spec/controllers/tickets_controller_spec.rb</file>
+        <file>file:/D:/rails/ticketee/factories/ticket_factory.rb</file>
+        <file>file:/D:/rails/ticketee/spec/controllers/projects_controller_spec.rb</file>
         <file>file:/D:/rails/ticketee/factories/project_factory.rb</file>
         <file>file:/D:/rails/ticketee/factories/user_factory.rb</file>
-        <file>file:/D:/rails/ticketee/spec/controllers/projects_controller_spec.rb</file>
+        <file>file:/D:/rails/ticketee/app/controllers/tickets_controller.rb</file>
+        <file>file:/D:/rails/ticketee/features/creating_tickets.feature</file>
         <file>file:/D:/rails/ticketee/Gemfile</file>
-        <file>file:/D:/rails/ticketee/features/support/factories.rb</file>
-        <file>file:/D:/rails/ticketee/spec/support/factories.rb</file>
+        <file>file:/D:/rails/ticketee/app/models/ability.rb</file>
+        <file>file:/D:/rails/ticketee/app/models/user.rb</file>
+        <file>file:/D:/rails/ticketee/features/deleting_tickets.feature</file>
+        <file>file:/D:/rails/ticketee/app/views/tickets/_form.html.erb</file>
+        <file>file:/D:/rails/ticketee/app/controllers/admin/users_controller.rb</file>
+        <file>file:/D:/rails/ticketee/features/step_definitions/user_steps.rb</file>
+        <file>file:/D:/rails/ticketee/app/views/tickets/show.html.erb</file>
+        <file>file:/D:/rails/ticketee/features/assigning_permissions.feature</file>
+        <file>file:/D:/rails/ticketee/app/views/admin/users/show.html.erb</file>
+        <file>file:/D:/rails/ticketee/app/controllers/admin/permissions_controller.rb</file>
+        <file>file:/D:/rails/ticketee/app/views/admin/permissions/index.html.erb</file>
+        <file>file:/D:/rails/ticketee/app/helpers/admin/permissions_helper.rb</file>
+        <file>file:/D:/rails/ticketee/app/views/layouts/application.html.erb</file>
     </open-files>
 </project-private>

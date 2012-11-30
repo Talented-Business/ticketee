@@ -7,7 +7,7 @@ gem 'rails', '3.2.8'
 
 gem 'sqlite3'
 gem 'devise','2.0'
-
+gem 'cancan'
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -22,7 +22,9 @@ group :assets do
 end
 
 gem 'jquery-rails'
-
+group :development do
+ gem 'letter_opener'
+end
 group :test,:development do
 	gem 'rspec-rails'
 end
