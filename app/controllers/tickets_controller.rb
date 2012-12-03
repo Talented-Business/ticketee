@@ -7,6 +7,7 @@ class TicketsController < ApplicationController
   before_filter :authorize_delete!, :only => [:destroy]
 	def	new
 		@ticket = @project.tickets.build
+		@ticket.assets.build
 	end
 	def create
 		@ticket = @project.tickets.build(params[:ticket].merge!(:user_id => current_user.id))
@@ -19,6 +20,8 @@ class TicketsController < ApplicationController
 		end
 	end
 	def show
+		@comment = @ticket.comments.build
+		@states = State.all
 	end
 	def edit
 	end

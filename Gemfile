@@ -8,7 +8,9 @@ gem 'rails', '3.2.8'
 gem 'sqlite3'
 gem 'devise','2.0'
 gem 'cancan'
+gem 'paperclip'
 
+gem 'jquery-rails'
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
@@ -34,6 +36,7 @@ group :test do
 	gem 'database_cleaner'
 	gem 'factory_girl'
 	gem 'email_spec'
+	gem 'launchy'
 end# To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
